@@ -1,149 +1,113 @@
-/**
- Copyright 2014-2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
- Licensed under the Apache License, Version 2.0 (the "License"). You may not use this file except in compliance with the License. A copy of the License is located at
-
- http://aws.amazon.com/apache2.0/
-
- or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
- */
-
-/**
- * This sample shows how to create a simple Flash Card skill. The skill
- * supports 1 player at a time, and does not support games across sessions.
- */
 
 'use strict';
 
-/**
- * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
- * Make sure the first answer is the correct one. Set at least 4 answers, any extras will be shuffled in.
- */
+
 var questions = [
     {
-        "What is A C?": [
-            "actinium"
+        "What album featured Dirty Work?": [
+            "can't buy a thrill"
         ]
     },
     {
-        "What is A L?": [
-            "aluminum"
+        "What album featured Change Of The Guard?": [
+            "can't buy a thrill"
             
         ]
     },
     {
-        "What is A M?": [
-            "americium"
+        "What album featured Fire In The Hole?": [
+            "can't buy a thrill"
         ]
     },
     {
-        "What is S B?": [
-            "antimony"
+        "What album featured Razor Boy?": [
+            "countdown to ecstacy"
         ]
     },
     {
-        "What is A R?": [
-            "argon"
+        "What album featured Show Biz Kids?": [
+            "countdown to ecstacy"
         ]
     },
     {
-        "What is A S?": [
-            "arsenic"
+        "What album featured Pretzel Logic?": [
+            "pretzel logic"
         ]
     },
     {
-        "What is A T?": [
-            "astatine"
+        "What album featured Barrytown?": [
+            "pretzel logic"
         ]
     },
     {
-        "What is B A?": [
-            "barium"
+        "What album featured Any Major Dude Will Tell You?": [
+            "pretzel logic"
         ]
     },
     {
-        "What is B K?": [
-            "berkelium"
+        "What album featured Dr Wu?": [
+            "katy lied"
         ]
     },
     {
-        "What is B E?": [
-            "beryllium"
+        "What album featured Throw Back The Little Ones?": [
+            "katy lied"
         ]
     },
     {
-        "What is B I?": [
-            "bismuth"
+        "What album featured Peg?": [
+            "aja"
         ]
     },
     {
-        "What is B H?": [
-            "bohrium"
+        "What album featured Josie?": [
+            "aja"
         ]
     },
     {
-        "What is B?": [
-            "boron"
+        "What album featured My Rival?": [
+            "gaucho"
         ]
     },
     {
-        "What is B R ?": [
-            "bromine"
+        "What album featured Hey Nineteen?": [
+            "gaucho"
         ]
     },
     {
-        "What is C D ?": [
-            "cadmium"
+        "What album featured Third World Man?": [
+            "gaucho"
         ]
     },
     {
-        "What is C A ?": [
-            "calcium"
+        "What album featured Cousin Dupree?": [
+            "two against nature"
         ]
     },
     {
-        "What is C F ?": [
-            "californium"
+        "What album featured The Fez?": [
+            "the royal scam"
         ]
     },
     {
-        "What is C ?": [
-            "carbon"
+        "What album featured Don't Take Me Alive?": [
+            "the royal scam"
         ]
     },
     {
-        "What is C E ?": [
-            "cerium"
+        "What album featured The Caves of Altamira?": [
+            "the royal scam"
         ]
     },
     {
-        "What is C S ?": [
-            "cesium"
+        "What album featured Kid Charlemagne?": [
+            "the royal scam"
         ]
     },
     {
-        "What is C L ?": [
-            "chlorine"
-        ]
-    },
-    {
-        "What is C R ?": [
-            "chromium"
-        ]
-    },
-    {
-        "What is C O ?": [
-            "cobalt"
-        ]
-    },
-    {
-        "What is C U ?": [
-            "copper"
-        ]
-    },
-    {
-        "What is C M?": [
-            "Curium"
+        "What album featured Turn That Heartbeat Over Again?": [
+            "can't buy a thrill"
         ]
     },
 ];
@@ -267,12 +231,12 @@ function onSessionEnded(sessionEndedRequest, session) {
 
 var ANSWER_COUNT = 1;
 var GAME_LENGTH = 5;
-var CARD_TITLE = "Chemistry Flash Cards"; // Be sure to change this for your skill.
+var CARD_TITLE = "Steely Dan Album Quiz"; // Be sure to change this for your skill.
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        speechOutput = "Let's test your skills with FlashCards. I will ask you " + GAME_LENGTH.toString()
-            + " questions, try to get as many right as you can. Just say the answer. Let's begin. ",
+        speechOutput = "Let's test your knowledge of the Bards of Bard College with Naked Lunch. I will ask you " + GAME_LENGTH.toString()
+            + " a song, you say the album, try to get as many right as you can. Just say the answer. Let's begin. ",
         shouldEndSession = false,
 
         gameQuestions = populateGameQuestions(),
@@ -417,7 +381,7 @@ function handleAnswerRequest(intent, session, callback) {
         // If the user provided answer isn't a number > 0 and < ANSWER_COUNT,
         // return an error message to the user. Remember to guide the user into providing correct values.
         var reprompt = session.attributes.speechOutput;
-        var speechOutput = "Your answer must be a known element " + reprompt;
+        var speechOutput = "Your answer must be a known Steely Dan Album " + reprompt;
         callback(session.attributes,
             buildSpeechletResponse(CARD_TITLE, speechOutput, reprompt, false));
     } else {
@@ -429,7 +393,7 @@ function handleAnswerRequest(intent, session, callback) {
 
         var speechOutputAnalysis = "";
 
-        if (answerSlotValid && intent.slots.Answer.value == correctAnswerText) {
+        if (answerSlotValid && intent.slots.Answer.value.toLowerCase == correctAnswerText.toLowerCase) {
             currentScore++;
             speechOutputAnalysis = "correct. ";
         } else {
@@ -442,7 +406,7 @@ function handleAnswerRequest(intent, session, callback) {
         if (currentQuestionIndex == GAME_LENGTH - 1) {
             speechOutput = userGaveUp ? "" : "That answer is ";
             speechOutput += speechOutputAnalysis + "You got " + currentScore.toString() + " out of "
-                + GAME_LENGTH.toString() + " questions correct. Thank you for learning Flash Cards with Alexa!";
+                + GAME_LENGTH.toString() + " questions correct. Thank you for playing!";
             callback(session.attributes,
                 buildSpeechletResponse(CARD_TITLE, speechOutput, "", true));
         } else {
@@ -489,7 +453,7 @@ function handleRepeatRequest(intent, session, callback) {
 
 function handleGetHelpRequest(intent, session, callback) {
     var sessionAttributes = {}
-    var CARD_TITLE = "Flash Cards";
+    var CARD_TITLE = "Naked Lunch";
     var speechOutput = "You can begin a game by saying start a new game, or, you can say exit... What can I help you with?";
     var repromptText = "What can I help you with?";
     
