@@ -1,0 +1,29 @@
+Skill	Gloucester Facts
+Lambda Func.	GloucesterFacts
+Facts	"The population of Gloucester is 29 thousand.",
+"Gloucester was incorporated as a city in 1873.",
+"English settlers from Dorset arrived in Gloucester in 1623.",
+"Gloucester and neighboring Rockport make up the Cape Ann peninsula.",
+"Gloucester is at the north endpoint of the Route 128 highway, which circles the city of Boston.",
+"Gloucester is home to popular beaches such as Good Harbor beach and Winger Sheik beach.",  
+"Gloucester was featured in the year two thousand disaster drama film, the perfect storm",
+"Gloucester is part of Essex county, Massachusetts.",
+"Gloucester can be reached from Boston by the M B T A commuter rail, rockport line train",
+"Three large turbines at Blackburn circle provide Gloucester with wind powered electricity.",
+"Gloucester has a thriving art scene at the Rocky Neck art colony.",
+"Ships arriving at Gloucester pass by the Eastern Point Lighthouse.",
+"A castle called Hammond castle looks out over Gloucester harbor.",
+"One hundred years ago, Gloucester was a major exporter of granite stone.",
+"The Annisquam river divides Gloucester into eastern and western sections."
+
+Short Skill Description	The town of Gloucester Massachusetts is famous for fishing and maritime history, and as a summer beach and sea destination.  Learn more about Gloucester by asking for a “Gloucester Fact”.  Gloucester is pronounced “gloss ter”
+Full Skill Description	The town of Gloucester Massachusetts is famous for fishing and maritime history, and as a summer beach and sea destination.  Learn more about Gloucester by asking for a “Gloucester Fact”.  Gloucester is pronounced “gloss ter”
+Example Phrases	Alexa, open Gloucester Facts, tell me something 
+Give me a fact
+Tell me a fact
+
+Category	Education & Reference
+Images	
+Testing Instructions	Based on the Space Geek fact skill.  Should not require any special account or hardware.  Be sure to pronounce Gloucester as “gloss ter”
+   
+
