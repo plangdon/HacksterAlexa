@@ -16,6 +16,8 @@ Hartford, CT
 1.) Sign-In Sheet 
 http://dev.amazonappservices.com/Hackathon.html
     Event Name: #hacksterhartford
+    **You can use this page to get your vendor ID:
+    https://developer.amazon.com/mycid.html
 
 2.) Register your Skills Here by August 8th
 http://www.amazon.com/gp/html-forms-controller/Hackathon_Promotion_2016
