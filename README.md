@@ -36,4 +36,12 @@ Slides:
 https://github.com/plangdon/HacksterAlexa/blob/master/Alexa%20Presentation.pdf
 
 
+---- Show & Tell ----
 
+I am adding a projects folder and uploading some skills I am creating inspired by the 2 templates 
+
+Pretzel Man - Based on Space Geek - Steely Day Trivia
+
+Naked Lunch - Based on Chemistry Flash Card - Steely Dan Match Song to Album Quiz
+
+Feel Free to Create and Upload your projects to share or list your approved skills so we can check them out
