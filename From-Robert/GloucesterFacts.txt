@@ -1,6 +1,7 @@
-Skill	Gloucester Facts
-Lambda Func.	GloucesterFacts
-Facts	"The population of Gloucester is 29 thousand.",
+Skill:	Gloucester Facts
+Lambda Func.:	GloucesterFacts
+Facts:
+"The population of Gloucester is 29 thousand.",
 "Gloucester was incorporated as a city in 1873.",
 "English settlers from Dorset arrived in Gloucester in 1623.",
 "Gloucester and neighboring Rockport make up the Cape Ann peninsula.",
@@ -16,14 +17,18 @@ Facts	"The population of Gloucester is 29 thousand.",
 "One hundred years ago, Gloucester was a major exporter of granite stone.",
 "The Annisquam river divides Gloucester into eastern and western sections."
 
-Short Skill Description	The town of Gloucester Massachusetts is famous for fishing and maritime history, and as a summer beach and sea destination.  Learn more about Gloucester by asking for a ìGloucester Factî.  Gloucester is pronounced ìgloss terî
-Full Skill Description	The town of Gloucester Massachusetts is famous for fishing and maritime history, and as a summer beach and sea destination.  Learn more about Gloucester by asking for a ìGloucester Factî.  Gloucester is pronounced ìgloss terî
-Example Phrases	Alexa, open Gloucester Facts, tell me something 
+Short Skill Description:
+The town of Gloucester Massachusetts is famous for fishing and maritime history, and as a summer beach and sea destination.  Learn more about Gloucester by asking for a ‚ÄúGloucester Fact‚Äù.  Gloucester is pronounced ‚Äúgloss ter‚Äù
+Full Skill Description:
+The town of Gloucester Massachusetts is famous for fishing and maritime history, and as a summer beach and sea destination.  Learn more about Gloucester by asking for a ‚ÄúGloucester Fact‚Äù.  Gloucester is pronounced ‚Äúgloss ter‚Äù
+Example Phrases:	
+Alexa, open Gloucester Facts, tell me something 
 Give me a fact
 Tell me a fact
 
-Category	Education & Reference
-Images	
-Testing Instructions	Based on the Space Geek fact skill.  Should not require any special account or hardware.  Be sure to pronounce Gloucester as ìgloss terî
+Category:	Education & Reference
+Images:	
+Testing Instructions:
+Based on the Space Geek fact skill.  Should not require any special account or hardware.  Be sure to pronounce Gloucester as ‚Äúgloss ter‚Äù
    
 
