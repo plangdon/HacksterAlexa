@@ -39,9 +39,9 @@ http://www.amazon.com/gp/html-forms-controller/Hackathon_Promotion_2016
 
 #Resources for creating your skills
 
-You need to have/create 2 types Amazon Accounts:
-https://developer.amazon.com/ - Amazon Developer Account for Configuring your Alexa Skills
-http://aws.amazon.com/ - Amazon Web Services Account for back end services
+###You need to have/create 2 types Amazon Accounts:
+-https://developer.amazon.com/ - Amazon Developer Account for Configuring your Alexa Skills
+-http://aws.amazon.com/ - Amazon Web Services Account for back end services
 
 
 ###GitHub link for Examples:
