@@ -56,6 +56,7 @@ https://github.com/unitygirl/ChemistryFlashCards
 ##A few shout-outs and reminders to our local sponsors...
 Thanks to all the parties that made the event possible.
  
+ 
 ###Goodwin College - 
 For hosting/donating the space, tables and chairs and time on Saturday.
  
