@@ -17,9 +17,10 @@ Hartford, CT
 30 Arbor St B7
 Hartford, CT
 
+# How to get your free Tap!
 
-
-##1.) Sign-In Sheet 
+##1.) Sign-In Sheet
+- Register here
 http://dev.amazonappservices.com/Hackathon.html
 
     **Event Name: #hacksterhartford
@@ -27,10 +28,14 @@ http://dev.amazonappservices.com/Hackathon.html
     
     https://developer.amazon.com/mycid.html
 
-##2.) Register your Skills Here by August 8th
+##2.) Submit your Skills Here by August 8th
 http://www.amazon.com/gp/html-forms-controller/Hackathon_Promotion_2016
 
 - Hackster.io Hackathon you attended*: __Hartford__
+
+------------
+
+#Resources for creating your skills
 
 
 ###GitHub link for Examples:
