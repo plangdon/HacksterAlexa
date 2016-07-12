@@ -46,9 +46,10 @@ https://github.com/plangdon/HacksterAlexa/blob/master/Alexa%20Presentation.pdf
 
 I am adding a projects folder and uploading some skills I am creating inspired by the 2 templates 
 
-Pretzel Man - Based on Space Geek - Steely Day Trivia
+###Pretzel Man - Based on Space Geek - Steely Day Trivia
+ - Published: http://alexa.amazon.com/spa/index.html#skills/beta/amzn1.echo-sdk-ams.app.ecdabca0-0eb5-4b44-aec4-29da9fc0692d/?ref=skill_dsk_skb_ys_16
 
-Naked Lunch - Based on Chemistry Flash Card - Steely Dan Match Song to Album Quiz
+###Naked Lunch - Based on Chemistry Flash Card - Steely Dan Match Song to Album Quiz
 
 Feel Free to Create and Upload your projects to share or list your approved skills so we can check them out
 
