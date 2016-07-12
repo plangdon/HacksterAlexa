@@ -47,6 +47,7 @@ http://www.amazon.com/gp/html-forms-controller/Hackathon_Promotion_2016
 
 ###GitHub link for Examples:
 https://github.com/amzn/alexa-skills-kit-js
+- Specificaly: https://github.com/amzn/alexa-skills-kit-js/tree/master/samples/spaceGeek
 
 ###Chemistry Flash Cards:
 https://github.com/unitygirl/ChemistryFlashCards
