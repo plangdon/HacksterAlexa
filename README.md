@@ -1,4 +1,4 @@
-# HacksterHartford
+# Hackster.io/Amazon Alexa Meetup for Hartford
 
 ##Hackster.io Alexa Hackathon Assets
 
