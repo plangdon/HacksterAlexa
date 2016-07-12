@@ -29,7 +29,7 @@ http://dev.amazonappservices.com/Hackathon.html
 
 ##2.) Register your Skills Here by August 8th
 http://www.amazon.com/gp/html-forms-controller/Hackathon_Promotion_2016
-      Hackster.io Hackathon you attended*: Hartford
+      - Hackster.io Hackathon you attended*:     Hartford
 
 
 ###GitHub link for Examples:
