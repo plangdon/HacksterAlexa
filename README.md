@@ -48,7 +48,8 @@ I am adding a projects folder and uploading some skills I am creating inspired b
 
 ###Pretzel Man - Based on Space Geek - Steely Day Trivia
  - Published: 
-       [Pretzel Man](http://alexa.amazon.com/spa/index.html#skills/beta/amzn1.echo-sdk-ams.app.ecdabca0-0eb5-4b44-aec4-29da9fc0692d/?ref=skill_dsk_skb_ys_16){:target="_blank"}
+       [Pretzel Man](http://alexa.amazon.com/spa/index.html#skills/beta/amzn1.echo-sdk-ams.app.ecdabca0-0eb5-4b44-aec4-29da9fc0692d/?ref=skill_dsk_skb_ys_16)
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ###Naked Lunch - Based on Chemistry Flash Card - Steely Dan Match Song to Album Quiz
 
