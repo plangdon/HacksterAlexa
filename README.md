@@ -4,6 +4,8 @@
 
 ###My Contact Info:
 paul@bltrobotics.com
+###Slides from presentation:
+https://github.com/plangdon/HacksterAlexa/blob/master/Alexa%20Presentation.pdf
 
 
 ###Office Hours/Follow-up Session
@@ -44,8 +46,24 @@ https://github.com/amzn/alexa-skills-kit-js
 ###Chemistry Flash Cards:
 https://github.com/unitygirl/ChemistryFlashCards
 
-##Slides:
-https://github.com/plangdon/HacksterAlexa/blob/master/Alexa%20Presentation.pdf
+------------------------
+
+##A few shout-outs and reminders to our local sponsors...
+Thanks to all the parties that made the event possible.
+ 
+###Goodwin College - 
+For hosting/donating the space, tables and chairs and time on Saturday.
+ 
+###MakeHartford - 
+For providing resources in organizing, co-sponsoring breakfast, hosting our office hours and building the community that fosters this activity. (Please check out their open house every Wednesday at 6:30)  - http://www.makehartford.com/
+ 
+###CT Invention Convention - 
+For all the behind the scenes activities like ordering and picking up the food, coordinating the space and making sure everyone was fed and happy. (Please support their tireless effort to bring technology programming to the children of Connecticut) - http://www.ctinventionconvention.org/ 
+ 
+###Metro Hartford Alliance - 
+For generously sponsoring our breakfast and helps drive programming like this to keep Hartford successful.  https://www.metrohartford.com/
+ 
+Support their missions and activities as they help make our community grow! 
 
 
 ##---- Show & Tell ----
@@ -62,22 +80,3 @@ Based on Space Geek - Steely Day Trivia
 Based on Chemistry Flash Card - Steely Dan Match Song to Album Quiz
 
 Feel Free to Create and Upload your projects to share or list your approved skills so we can check them out
-
-------------------------
-
-##And a few shout-outs and reminders to our local sponsors...
-Thanks to all the parties that made the event possible.
- 
-###Goodwin College - 
-For hosting/donating the space, tables and chairs and time on Saturday.
- 
-###MakeHartford - 
-For providing resources in organizing, co-sponsoring breakfast, hosting our office hours and building the community that fosters this activity. (Please check out their open house every Wednesday at 6:30)  - http://www.makehartford.com/
- 
-###CT Invention Convention - 
-For all the behind the scenes activities like ordering and picking up the food, coordinating the space and making sure everyone was fed and happy. (Please support their tireless effort to bring technology programming to the children of Connecticut) - http://www.ctinventionconvention.org/ 
- 
-###Metro Hartford Alliance - 
-For generously sponsoring our breakfast and helps drive programming like this to keep Hartford successful.  https://www.metrohartford.com/
- 
-Support their missions and activities as they help make our community grow! 
