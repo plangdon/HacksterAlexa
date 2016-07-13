@@ -1,0 +1,11 @@
+GetNewFactIntent a fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent to tell me a fact
+GetNewFactIntent give me a fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me some information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent to tell me something
+GetNewFactIntent to give me something
