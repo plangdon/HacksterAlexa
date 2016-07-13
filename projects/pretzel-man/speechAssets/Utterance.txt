@@ -1,17 +1,10 @@
 GetNewFactIntent a fact
-GetNewFactIntent a steely fact
 GetNewFactIntent tell me a fact
-GetNewFactIntent tell me a steely fact
 GetNewFactIntent to tell me a fact
-GetNewFactIntent to tell me a steely fact
 GetNewFactIntent give me a fact
-GetNewFactIntent give me a steely fact
 GetNewFactIntent tell me trivia
-GetNewFactIntent tell me a steely trivia
 GetNewFactIntent give me trivia
-GetNewFactIntent give me a steely trivia
 GetNewFactIntent give me some information
-GetNewFactIntent give me some steely information
 GetNewFactIntent tell me something
 GetNewFactIntent give me something
 GetNewFactIntent to tell me something
