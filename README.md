@@ -45,17 +45,21 @@ http://www.amazon.com/gp/html-forms-controller/Hackathon_Promotion_2016
    http://aws.amazon.com/ - Amazon Web Services Account for back end services
 
 
-###GitHub link for Examples:
-https://github.com/amzn/alexa-skills-kit-js
-
-###Trivia:
+## Here are 2 easy templates to try
+###Trivia Template:
 https://github.com/amzn/alexa-skills-kit-js/tree/master/samples/spaceGeek
 
    __Tutorial on Space Geek/Fact Skill__
    
    https://developer.amazon.com/public/community/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill
+   
+   ####Publication/Submission Notes:
+   In the "Testing Instructions" of the Alexa submission form (developers.amazon.com)
+   include the following: 
+      /#HacksterHartford
+      /#FactSkillTemplate
 
-###Chemistry Flash Cards:
+###Flash Card Template:
 https://github.com/unitygirl/ChemistryFlashCards
 
    __Tutorial on Flash Cards__
@@ -65,7 +69,9 @@ https://github.com/unitygirl/ChemistryFlashCards
 ------------------------
 I also have another tutorial on Hackster.io
 https://www.hackster.io/bltrobotics/alexa-the-english-major-thesaurus-skill-b14c7e
-
+------------------------
+###GitHub link for other examples:
+https://github.com/amzn/alexa-skills-kit-js
 ------------------------
 
 ##A few shout-outs and reminders to our local sponsors...
