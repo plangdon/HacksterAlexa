@@ -53,11 +53,11 @@ https://github.com/amzn/alexa-skills-kit-js/tree/master/samples/spaceGeek
    
    https://developer.amazon.com/public/community/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill
    
-   ####Publication/Submission Notes:
-   In the "Testing Instructions" of the Alexa submission form (developers.amazon.com)
-   include the following: 
-      /#HacksterHartford
-      /#FactSkillTemplate
+   >Publication/Submission Notes:
+   >In the "Testing Instructions" of the Alexa submission form (developers.amazon.com)
+   >include the following: 
+      >#HacksterHartford
+      >#FactSkillTemplate
 
 ###Flash Card Template:
 https://github.com/unitygirl/ChemistryFlashCards
