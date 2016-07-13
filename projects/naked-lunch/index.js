@@ -236,7 +236,7 @@ var CARD_TITLE = "Steely Dan Album Quiz"; // Be sure to change this for your ski
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
         speechOutput = "Let's test your knowledge of the Bards of Bard College with Naked Lunch. I will ask you " + GAME_LENGTH.toString()
-            + " a song, you say the album, try to get as many right as you can. Just say the answer. Let's begin. ",
+            + " songs, you say the album the song first appeared on, try to get as many right as you can. Just say the answer. Let's begin. ",
         shouldEndSession = false,
 
         gameQuestions = populateGameQuestions(),
@@ -392,8 +392,14 @@ function handleAnswerRequest(intent, session, callback) {
             correctAnswerText = session.attributes.correctAnswerText;
 
         var speechOutputAnalysis = "";
+        
+        var answer = intent.slots.Answer.value;
+        
+        if (answer===undefined){
+            answer="blank";
+        }
 
-        if (answerSlotValid && intent.slots.Answer.value.toLowerCase == correctAnswerText.toLowerCase) {
+        if (answerSlotValid && answer.toLowerCase() == correctAnswerText.toLowerCase()) {
             currentScore++;
             speechOutputAnalysis = "correct. ";
         } else {
