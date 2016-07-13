@@ -49,8 +49,18 @@ http://www.amazon.com/gp/html-forms-controller/Hackathon_Promotion_2016
 https://github.com/amzn/alexa-skills-kit-js
 - Specificaly: https://github.com/amzn/alexa-skills-kit-js/tree/master/samples/spaceGeek
 
+   Tutorial on Space Geek/Fact Skill: 
+   https://developer.amazon.com/public/community/post/Tx3DVGG0K0TPUGQ/New-Alexa-Skills-Kit-Template:-Step-by-Step-Guide-to-Build-a-Fact-Skill
+
 ###Chemistry Flash Cards:
 https://github.com/unitygirl/ChemistryFlashCards
+
+   Tutorial on Flash Cards
+   https://developer.amazon.com/public/community/post/Tx2YNDI2WP6O21S/New-Alexa-Skills-Kit-Template-Step-by-Step-Guide-to-Build-a-Flash-Cards-Skill
+   
+
+I also have another tutorial on Hackster.io
+https://www.hackster.io/bltrobotics/alexa-the-english-major-thesaurus-skill-b14c7e
 
 ------------------------
 
