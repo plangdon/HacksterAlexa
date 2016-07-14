@@ -15,6 +15,11 @@ https://github.com/plangdon/HacksterAlexa/blob/master/Alexa%20Presentation.pdf
 Hartford, CT
 
 
+####July 20 - 5pm - 7:30pm - MakeHartford
+30 Arbor St B7
+Hartford, CT
+
+
 ####July 27 - 6pm - MakeHartford
 30 Arbor St B7
 Hartford, CT
