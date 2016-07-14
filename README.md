@@ -131,5 +131,25 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 
 [Dinner Options] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDIH7CE) - EMKlaus
 
+[Rollins-Carlson Family Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HR5O7AY) - Jeff Carlson
+
+[Rollins-Carlson Family Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7GU24M) - Jason Sit
+
+[soccerfacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8CSG48) - Sanmati Choudhary
+
+[Farmington History Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8PM4A2) - Sanmati Choudhary
+
+[Flash Cards] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7CBFM4) - Lee Johnson
+
+[Caper Trivia] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7AFF54) - Lee Johnson
+
+[Trivia for Disney Fans] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HW0OO0C) - Tyler Lauretti
+
+[Solar System Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I893UA6) - Jose Andrade
+
+
+
+
+
 
 
