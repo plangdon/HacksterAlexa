@@ -122,3 +122,14 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 [Car Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDQBMTA) - Mark Wolkon
 
 [Northbridge MA History] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8E8SUS) - Curt Downing
+
+[Sports Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I77M7BC) - Joe Mirmina
+
+[Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7A18SM) - Joe Mirmina
+
+[CPUFacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7MANJK) - EMKlaus
+
+[Dinner Options] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDIH7CE) - EMKlaus
+
+
+
