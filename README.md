@@ -109,7 +109,11 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 ###List of Published skills from the Event
 
 [Pretzel Man](http://alexa.amazon.com/spa/index.html#skills/dp/B01I7O4ZDS) - Paul Langdon
+
 [Naked Lunch] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7RDOLE) - Paul Langdon
+
 [Marks Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA95OO4) - Mark Wolkon 
+
 [Car Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDQBMTA) - Mark Wolkon
+
 [Northbridge MA History] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8E8SUS) - Curt Downing
