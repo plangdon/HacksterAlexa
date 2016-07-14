@@ -148,7 +148,9 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 [Solar System Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I893UA6) - Jose Andrade
 
 
+##Hackster.io Challenges
 
+Don't forget to document your skill and create a Hackster.io project for the https://www.hackster.io/challenges/alexa-raspberry-pi challenge. The first 50 submissions get $100 gift card.
 
 
 
