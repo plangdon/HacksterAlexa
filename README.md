@@ -113,6 +113,7 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 -----------------------
 ###List of Published skills from the Event
 
+####Three and Tap Ready
 [Sports Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I77M7BC) - Joe Mirmina
 
 [Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7A18SM) - Joe Mirmina
@@ -134,7 +135,7 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 [Bodhisattva] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA1UJR4) - Paul Langdon
 
 
-
+####Almost There!
 [Marks Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA95OO4) - Mark Wolkon
 
 [Car Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDQBMTA) - Mark Wolkon
@@ -160,7 +161,7 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 [Brain Cage] (http://alexa.amazon.com/spa/index.html#skills/dp/B01GDHH3ZI) - Corey
 
 
-
+####Got One Done!!
 [Movie Nerd] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IE6COXM) - Mike Hansen
 
 [Northbridge MA History] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8E8SUS) - Curt Downing
