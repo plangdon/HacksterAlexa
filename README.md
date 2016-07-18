@@ -114,65 +114,65 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 ###List of Published skills from the Event
 
 ####Three and Tap Ready
-[Sports Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I77M7BC) - Joe Mirmina
+   [Sports Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I77M7BC) - Joe Mirmina
 
-[Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7A18SM) - Joe Mirmina
+   [Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7A18SM) - Joe Mirmina
 
-[Multiplication Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IGMJQ8K) - Joe Mirmina
+   [Multiplication Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IGMJQ8K) - Joe Mirmina
 
+---
+   [soccerfacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8CSG48) - Sanmati Choudhary
 
-[soccerfacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8CSG48) - Sanmati Choudhary
+   [Farmington History Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8PM4A2) - Sanmati Choudhary
 
-[Farmington History Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8PM4A2) - Sanmati Choudhary
+   [Interesting Indian Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8CSG48) - Sanmati Choudhary
+---
 
-[Interesting Indian Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8CSG48) - Sanmati Choudhary
+   [Pretzel Man](http://alexa.amazon.com/spa/index.html#skills/dp/B01I7O4ZDS) - Paul Langdon
 
+   [Naked Lunch] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7RDOLE) - Paul Langdon
 
-[Pretzel Man](http://alexa.amazon.com/spa/index.html#skills/dp/B01I7O4ZDS) - Paul Langdon
-
-[Naked Lunch] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7RDOLE) - Paul Langdon
-
-[Bodhisattva] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA1UJR4) - Paul Langdon
+   [Bodhisattva] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA1UJR4) - Paul Langdon
 
 
 ####Almost There!
-[Marks Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA95OO4) - Mark Wolkon
+   [Marks Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA95OO4) - Mark Wolkon
 
-[Car Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDQBMTA) - Mark Wolkon
+   [Car Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDQBMTA) - Mark Wolkon
+---
 
+   [Football Squares Number Picker] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IGEPGNM) - Mike Commendatore
 
-[Football Squares Number Picker] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IGEPGNM) - Mike Commendatore
+   [Guitar Fact Skill] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7AH0LG) - Mike Commendatore
+---
 
-[Guitar Fact Skill] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7AH0LG) - Mike Commendatore
+   [Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ7WINW) - Aaron Johnson
 
+   [Southington Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ6OG92) - Aaron Johnson
 
-[Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ7WINW) - Aaron Johnson
+---
+   [CPUFacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7MANJK) - EMKlaus
 
-[Southington Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ6OG92) - Aaron Johnson
+   [Dinner Options] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDIH7CE) - EMKlaus
+---
 
+   [Vinyl Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICEDVYM) - Corey
 
-[CPUFacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7MANJK) - EMKlaus
-
-[Dinner Options] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDIH7CE) - EMKlaus
-
-
-[Vinyl Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICEDVYM) - Corey
-
-[Brain Cage] (http://alexa.amazon.com/spa/index.html#skills/dp/B01GDHH3ZI) - Corey
+   [Brain Cage] (http://alexa.amazon.com/spa/index.html#skills/dp/B01GDHH3ZI) - Corey
 
 
 ####Got One Done!!
-[Movie Nerd] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IE6COXM) - Mike Hansen
+   [Movie Nerd] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IE6COXM) - Mike Hansen
 
-[Northbridge MA History] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8E8SUS) - Curt Downing
+   [Northbridge MA History] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8E8SUS) - Curt Downing
 
-[Rollins-Carlson Family Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HR5O7AY) - Jeff Carlson
+   [Rollins-Carlson Family Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HR5O7AY) - Jeff Carlson
 
-[Taco Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7GU24M) - Jason Sit
+   [Taco Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7GU24M) - Jason Sit
 
-[Trivia for Disney Fans] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HW0OO0C) - Tyler Lauretti
+   [Trivia for Disney Fans] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HW0OO0C) - Tyler Lauretti
 
-[Solar System Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I893UA6) - Jose Andrade
+   [Solar System Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I893UA6) - Jose Andrade
 
 
 
