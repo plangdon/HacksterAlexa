@@ -114,21 +114,18 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 ###List of Published skills from the Event
 
 [Pretzel Man](http://alexa.amazon.com/spa/index.html#skills/dp/B01I7O4ZDS) - Paul Langdon
-
 [Naked Lunch] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7RDOLE) - Paul Langdon
 
 [Marks Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA95OO4) - Mark Wolkon 
-
 [Car Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDQBMTA) - Mark Wolkon
 
 [Northbridge MA History] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8E8SUS) - Curt Downing
 
 [Sports Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I77M7BC) - Joe Mirmina
-
 [Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7A18SM) - Joe Mirmina
+[Multiplication Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IGMJQ8K) - Joe Mirmina
 
 [CPUFacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7MANJK) - EMKlaus
-
 [Dinner Options] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDIH7CE) - EMKlaus
 
 [Rollins-Carlson Family Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HR5O7AY) - Jeff Carlson
@@ -136,16 +133,17 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 [Taco Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7GU24M) - Jason Sit
 
 [soccerfacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8CSG48) - Sanmati Choudhary
-
 [Farmington History Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8PM4A2) - Sanmati Choudhary
+[Interesting Indian Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8CSG48) - Sanmati Choudhary
 
-[Flash Cards] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7CBFM4) - Lee Johnson
-
-[Caper Trivia] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7AFF54) - Lee Johnson
+[Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ7WINW) - Aaron Johnson
+[Southington Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ6OG92) - Aaron Johnson
 
 [Trivia for Disney Fans] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HW0OO0C) - Tyler Lauretti
 
 [Solar System Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I893UA6) - Jose Andrade
+
+
 
 
 ##Hackster.io Challenges
