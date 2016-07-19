@@ -129,6 +129,31 @@ Feel Free to Create and Upload your projects to share or list your approved skil
    [Interesting Indian Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8CSG48) - Sanmati Choudhary
 
 
+   [Marks Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA95OO4) - Mark Wolkon
+
+   [Car Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDQBMTA) - Mark Wolkon
+   
+   [music quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IL402HM) - Mark Wolkon
+   
+   
+   [Football Squares Number Picker] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IGEPGNM) - Mike Commendatore
+
+   [Guitar Fact Skill] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7AH0LG) - Mike Commendatore
+
+   [Multiplication Table Tester] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJMKSXY) - Mike Commendatore
+   
+   
+   
+   [CPUFacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7MANJK) - EMKlaus
+
+   [Dinner Options] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDIH7CE) - EMKlaus
+
+   [Resistor Value] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICNP4PC) - EMKlaus
+
+   [Dweeno Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IGGVT9U) - EMKlaus
+
+
+
    [Pretzel Man](http://alexa.amazon.com/spa/index.html#skills/dp/B01I7O4ZDS) - Paul Langdon
 
    [Naked Lunch] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7RDOLE) - Paul Langdon
@@ -138,24 +163,9 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 
 ####Almost There!
 
-   [Marks Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA95OO4) - Mark Wolkon
-
-   [Car Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDQBMTA) - Mark Wolkon
-
-
-   [Football Squares Number Picker] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IGEPGNM) - Mike Commendatore
-
-   [Guitar Fact Skill] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7AH0LG) - Mike Commendatore
-
-
    [Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ7WINW) - Aaron Johnson
 
    [Southington Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ6OG92) - Aaron Johnson
-
-
-   [CPUFacts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7MANJK) - EMKlaus
-
-   [Dinner Options] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IDIH7CE) - EMKlaus
 
 
    [Vinyl Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICEDVYM) - Corey
@@ -177,7 +187,7 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 
    [Solar System Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I893UA6) - Jose Andrade
 
-
+   [Rugby Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01INVMPKK) - Max Langdon
 
 
 
