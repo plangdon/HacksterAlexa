@@ -78,6 +78,9 @@ https://www.hackster.io/bltrobotics/alexa-the-english-major-thesaurus-skill-b14c
 ###GitHub link for other examples:
 https://github.com/amzn/alexa-skills-kit-js
 ------------------------
+Advanced Alexa Topics: Persistance, Account Linking, Slot Types
+https://github.com/bignerdranch/developing-alexa-skills-solutions
+------------------------
 
 ##A few shout-outs and reminders to our local sponsors...
 Thanks to all the parties that made the event possible.
