@@ -203,7 +203,9 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 
    [Rugby Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01INVMPKK) - Max Langdon
 
-
+   [Island of Milos Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7P9BCW) - ctsif
+   
+   [Kitchen Tips] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ILKXCTG) - Shyam Vadeyar
 
 
 ##Hackster.io Challenges
