@@ -50,6 +50,8 @@ http://www.amazon.com/gp/html-forms-controller/Hackathon_Promotion_2016
    http://aws.amazon.com/ - Amazon Web Services Account for back end services
 
 
+
+
 ## Here are 2 easy templates to try
 ###Trivia Template:
 https://github.com/amzn/alexa-skills-kit-js/tree/master/samples/spaceGeek
@@ -72,20 +74,24 @@ https://github.com/unitygirl/ChemistryFlashCards
    https://developer.amazon.com/public/community/post/Tx2YNDI2WP6O21S/New-Alexa-Skills-Kit-Template-Step-by-Step-Guide-to-Build-a-Flash-Cards-Skill
    
 
+
+###Additional Resources
+
 I also have another tutorial on Hackster.io
-------------------------
+-------
 https://www.hackster.io/bltrobotics/alexa-the-english-major-thesaurus-skill-b14c7e
 
-
-###GitHub link for other examples:
-------------------------
+GitHub link for other examples:
+-------
 https://github.com/amzn/alexa-skills-kit-js
 
-
 Advanced Alexa Topics: Persistance, Account Linking, Slot Types
-------------------------
+-------
 https://github.com/bignerdranch/developing-alexa-skills-solutions
 
+
+
+-----------------------------------------
 
 ##A few shout-outs and reminders to our local sponsors...
 Thanks to all the parties that made the event possible.
