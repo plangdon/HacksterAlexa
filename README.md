@@ -71,16 +71,21 @@ https://github.com/unitygirl/ChemistryFlashCards
    
    https://developer.amazon.com/public/community/post/Tx2YNDI2WP6O21S/New-Alexa-Skills-Kit-Template-Step-by-Step-Guide-to-Build-a-Flash-Cards-Skill
    
-------------------------
+
 I also have another tutorial on Hackster.io
+------------------------
 https://www.hackster.io/bltrobotics/alexa-the-english-major-thesaurus-skill-b14c7e
-------------------------
+
+
 ###GitHub link for other examples:
+------------------------
 https://github.com/amzn/alexa-skills-kit-js
-------------------------
+
+
 Advanced Alexa Topics: Persistance, Account Linking, Slot Types
-https://github.com/bignerdranch/developing-alexa-skills-solutions
 ------------------------
+https://github.com/bignerdranch/developing-alexa-skills-solutions
+
 
 ##A few shout-outs and reminders to our local sponsors...
 Thanks to all the parties that made the event possible.
