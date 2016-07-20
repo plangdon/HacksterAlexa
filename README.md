@@ -44,7 +44,7 @@ http://www.amazon.com/gp/html-forms-controller/Hackathon_Promotion_2016
 
 #Resources for creating your skills
 
-###You need to have/create 2 types Amazon Accounts:
+##You need to have/create 2 types Amazon Accounts:
    https://developer.amazon.com/ - Amazon Developer Account for Configuring your Alexa Skills
 
    http://aws.amazon.com/ - Amazon Web Services Account for back end services
@@ -76,6 +76,10 @@ https://github.com/unitygirl/ChemistryFlashCards
 
 
 ###Additional Resources
+
+*New Alexa Repo*
+--------------
+https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 
 I also have another tutorial on Hackster.io
 -------
