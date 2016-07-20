@@ -218,6 +218,10 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 
    [Broadway By Year] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQJD62U) - Lily Langdon
    
+   [Hamilton Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQJD62U) - Lily Langdon
+   
+   [Movie Year Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQJD62U) - Lily Langdon
+   
    
 
 
