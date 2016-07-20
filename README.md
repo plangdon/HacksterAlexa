@@ -77,7 +77,7 @@ https://github.com/unitygirl/ChemistryFlashCards
 
 ###Additional Resources
 
-*New Alexa Repo*
+*New Alexa Repo* - including persistance and simplified examples
 --------------
 https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
 
