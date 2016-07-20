@@ -187,6 +187,16 @@ Feel Free to Create and Upload your projects to share or list your approved skil
    [Brain Cage] (http://alexa.amazon.com/spa/index.html#skills/dp/B01GDHH3ZI) - Corey
 
 
+   [Rugby Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01INVMPKK) - Max Langdon
+
+   [Crafter Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01INS9VW8) - Max Langdon
+   
+   
+   [RS Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ILMH3N0) - Sea Woods
+   
+   [The Donald Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IOIEW4Y) - Sea Woods
+   
+
 ####Got One Done!!
 
    [Movie Nerd] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IE6COXM) - Mike Hansen
@@ -201,11 +211,14 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 
    [Solar System Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I893UA6) - Jose Andrade
 
-   [Rugby Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01INVMPKK) - Max Langdon
-
+   
    [Island of Milos Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7P9BCW) - ctsif
    
    [Kitchen Tips] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ILKXCTG) - Shyam Vadeyar
+
+   [Broadway By Year] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQJD62U) - Lily Langdon
+   
+   
 
 
 ##Hackster.io Challenges
