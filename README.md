@@ -171,6 +171,27 @@ Feel Free to Create and Upload your projects to share or list your approved skil
    [Dweeno Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IGGVT9U) - EMKlaus
 
 
+   [Broadway By Year] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQJD62U) - Lily Langdon
+   
+   [Hamilton Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQB0252) - Lily Langdon
+   
+   [Movie Year Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQLN2L8) - Lily Langdon
+   
+   
+   [Vinyl Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICEDVYM) - Corey
+
+   [Brain Cage] (http://alexa.amazon.com/spa/index.html#skills/dp/B01GDHH3ZI) - Corey
+   
+   [Programming Language Authors] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICFOIL6) - Corey
+   
+   
+
+   [Rugby Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01INVMPKK) - Max Langdon
+
+   [Crafter Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01INS9VW8) - Max Langdon
+   
+   [Water Vapor Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQ7NZXC) - Max Langdon
+   
 
    [Pretzel Man](http://alexa.amazon.com/spa/index.html#skills/dp/B01I7O4ZDS) - Paul Langdon
 
@@ -186,14 +207,9 @@ Feel Free to Create and Upload your projects to share or list your approved skil
    [Southington Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ6OG92) - Aaron Johnson
 
 
-   [Vinyl Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICEDVYM) - Corey
-
-   [Brain Cage] (http://alexa.amazon.com/spa/index.html#skills/dp/B01GDHH3ZI) - Corey
-
-
-   [Rugby Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01INVMPKK) - Max Langdon
-
-   [Crafter Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01INS9VW8) - Max Langdon
+   [Island of Milos Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7P9BCW) - ctsif
+   
+   [Pro Football Team Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IRM7USCW) - ctsif
    
    
    [RS Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ILMH3N0) - Sea Woods
@@ -215,16 +231,11 @@ Feel Free to Create and Upload your projects to share or list your approved skil
 
    [Solar System Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I893UA6) - Jose Andrade
 
-   
-   [Island of Milos Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7P9BCW) - ctsif
+   [Bowling Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7AEVVS) - Brian Hager
    
    [Kitchen Tips] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ILKXCTG) - Shyam Vadeyar
 
-   [Broadway By Year] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQJD62U) - Lily Langdon
-   
-   [Hamilton Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQJD62U) - Lily Langdon
-   
-   [Movie Year Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IQJD62U) - Lily Langdon
+   [Soccer Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I79VBP8) - Greg Szczygiel
    
    
 
