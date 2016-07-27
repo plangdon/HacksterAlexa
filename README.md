@@ -200,12 +200,36 @@ Feel Free to Create and Upload your projects to share or list your approved skil
    [Bodhisattva] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IA1UJR4) - Paul Langdon
 
 
-####Almost There!
 
    [Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ7WINW) - Aaron Johnson
 
    [Southington Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IJ6OG92) - Aaron Johnson
+   
+   [DJ music trivia] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IASW1DM) - Aaron Johnson
 
+
+   [Trivia for Disney Fans] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HW0OO0C) - Tyler Lauretti
+   
+   [Husky Pro] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IMNUPJM) - Tyler Lauretti
+   
+   [Marketing Flash Cards] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IMHDXQU/) - Tyler Lauretti
+
+
+   [Kitchen Tips] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ILKXCTG) - Shyam Vadeyar
+   
+   [Internet Flashcards] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ILME11M) - Shyam Vadeyar
+   
+   [Ask Queen Bee] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IM3IIP0) - Shyam Vadeyar
+   
+   
+   [Soccer Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I79VBP8) - Greg Szczygiel
+   
+   [United States Presidents] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IRHJ9BS) - Greg Szczygiel
+
+   [State Capital Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IIS3912) - Greg Szczygiel
+   
+
+--------------------
 
    [Island of Milos Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7P9BCW) - ctsif
    
@@ -217,27 +241,55 @@ Feel Free to Create and Upload your projects to share or list your approved skil
    [The Donald Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IOIEW4Y) - Sea Woods
    
 
-####Got One Done!!
-
    [Movie Nerd] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IE6COXM) - Mike Hansen
 
    [Northbridge MA History] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I8E8SUS) - Curt Downing
 
+   [Nautical Terms Quiz] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICEDF34) - Curt Downing
+
+
    [Rollins-Carlson Family Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HR5O7AY) - Jeff Carlson
+   
+   [LDS Trivia] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7B8PE6) - Jeff Carlson
+
+
 
    [Taco Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7GU24M) - Jason Sit
 
-   [Trivia for Disney Fans] (http://alexa.amazon.com/spa/index.html#skills/dp/B01HW0OO0C) - Tyler Lauretti
+   [Wales Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01J29W3OU) - Jason Sit
+
+
 
    [Solar System Game] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I893UA6) - Jose Andrade
 
    [Bowling Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7AEVVS) - Brian Hager
    
-   [Kitchen Tips] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ILKXCTG) - Shyam Vadeyar
 
-   [Soccer Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I79VBP8) - Greg Szczygiel
+
+
    
    
+   [Caper Flashcards] (http://alexa.amazon.com/spa/index.html#skills/dp/B01I7CBQY6) - Ben Johnson
+   
+   [Soccer Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IMG9KHW) - Ben Johnson
+   
+   
+   [C. I. C. Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICF7U4S) - CT Invention Convention
+   
+   [beagle fact] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IWZOZ3W) - CT Invention Convention
+   
+   
+   [Dog Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IURWPUW) - LJohnson
+   
+   [Bike Safety Tips] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IS0HMOA) - M Russo
+   
+   [Dylan Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01IRZCIZO) - M Russo
+   
+   
+   [mars the planet] (http://alexa.amazon.com/spa/index.html#skills/dp/B01ICFOS0W) - William Hoover
+   
+   [Connecticut Facts] (http://alexa.amazon.com/spa/index.html#skills/dp/B01J0EQJQ0) - chadioo
+  
 
 
 ##Hackster.io Challenges
