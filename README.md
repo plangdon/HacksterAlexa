@@ -299,3 +299,6 @@ Don't forget to document your skill and create a Hackster.io project for the htt
 
 
 
+https://www.npmjs.com/package/lambda-packager
+https://github.com/atojs/alexa-uncensor
+
