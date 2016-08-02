@@ -5,8 +5,8 @@
 
 var questions = [
     {
-        "What album featured Dirty Work?": [
-            "can't buy a thrill"
+        "Question?": [
+            "Answer"
         ]
     },
     {
@@ -235,8 +235,8 @@ var CARD_TITLE = "Steely Dan Album Quiz"; // Be sure to change this for your ski
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        speechOutput = "Let's test your knowledge of the Bards of Bard College with Naked Lunch. I will ask you " + GAME_LENGTH.toString()
-            + " songs, you say the album the song first appeared on, try to get as many right as you can. Just say the answer. Let's begin. ",
+        speechOutput = "Let's test your knowledge. I will ask you " + GAME_LENGTH.toString()
+            + " question, you say the say the answer. Let's begin. ",
         shouldEndSession = false,
 
         gameQuestions = populateGameQuestions(),
@@ -459,7 +459,7 @@ function handleRepeatRequest(intent, session, callback) {
 
 function handleGetHelpRequest(intent, session, callback) {
     var sessionAttributes = {}
-    var CARD_TITLE = "Naked Lunch";
+    var CARD_TITLE = "Quiz";
     var speechOutput = "You can begin a game by saying start a new game, or, you can say exit... What can I help you with?";
     var repromptText = "What can I help you with?";
     
