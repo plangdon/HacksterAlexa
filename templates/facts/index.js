@@ -1,16 +1,50 @@
-
-
 /**
     Copyright 2014-2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-
     Licensed under the Apache License, Version 2.0 (the "License"). You may not use this file except in compliance with the License. A copy of the License is located at
-
         http://aws.amazon.com/apache2.0/
-
     or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 */
 
 'use strict';
+
+/**
+ * This simple sample has no external dependencies or session management, and shows the most basic
+ * example of how to create a Lambda function for handling Alexa Skill requests.
+ *
+ * Examples:
+ * One-shot model:
+ *  User: "Alexa, ask fact skill for a  fact"
+ *  Alexa: "Here's your fact: ..."
+ */
+
+/**
+ * App ID for the skill
+ */
+var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
+
+/**
+ * Array containing space facts.
+ */
+var FACTS = [
+    "Your fact 1",
+    "Your fact 2",
+    "Your fact 3",
+    "Your fact 4",
+    "Your fact 5",
+    "Your fact 6",
+    "Your fact 7",
+    "Your fact 8",
+    "Your fact 9",
+    "Your fact 10",
+    "Your fact 11",
+    "Your fact 12",
+    "Your fact 13"
+];
+
+/**
+ * The AlexaSkill prototype and helper functions
+ */
+
 
 function AlexaSkill(appId) {
     this._appId = appId;
@@ -196,57 +230,7 @@ Response.prototype = (function () {
     };
 })();
 
-//module.exports = AlexaSkill;
 
-
-/**
-    Copyright 2014-2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-
-    Licensed under the Apache License, Version 2.0 (the "License"). You may not use this file except in compliance with the License. A copy of the License is located at
-
-        http://aws.amazon.com/apache2.0/
-
-    or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
-*/
-
-/**
- * This simple sample has no external dependencies or session management, and shows the most basic
- * example of how to create a Lambda function for handling Alexa Skill requests.
- *
- * Examples:
- * One-shot model:
- *  User: "Alexa, ask Space Geek for a space fact"
- *  Alexa: "Here's your space fact: ..."
- */
-
-/**
- * App ID for the skill
- */
-var APP_ID = undefined; //OPTIONAL: replace with "amzn1.echo-sdk-ams.app.[your-unique-value-here]";
-
-/**
- * Array containing space facts.
- */
-var FACTS = [
-    "Your fact 1",
-    "Your fact 2",
-    "Your fact 3",
-    "Your fact 4",
-    "Your fact 5",
-    "Your fact 6",
-    "Your fact 7",
-    "Your fact 8",
-    "Your fact 9",
-    "Your fact 10",
-    "Your fact 11",
-    "Your fact 12",
-    "Your fact 13"
-];
-
-/**
- * The AlexaSkill prototype and helper functions
- */
-//var AlexaSkill = require('./AlexaSkill');
 
 /**
  * SpaceGeek is a child of AlexaSkill.
