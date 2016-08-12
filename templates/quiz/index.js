@@ -191,7 +191,7 @@ var CARD_TITLE = "Quiz"; // Be sure to change this for your skill.
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
         speechOutput = "Let's test your knowledge. I will ask you " + GAME_LENGTH.toString()
-            + " question, you say the say the answer. Let's begin. ",
+            + " questions, you say the correct answer. Let's begin. ",
         shouldEndSession = false,
 
         gameQuestions = populateGameQuestions(),
